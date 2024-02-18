@@ -1,7 +1,7 @@
 Hi there! 
 
-I'm a data scientist who enjoys tackling unique and interesting problems. I have an interest in optimisation, and have a background in statistics and operations research. 
-A lot of my projects feature topics related to these, and many involving some games!
+I'm a full-stack engineer of 3+ years. Many of the projects on here are personal projects, many of which are a work in progress. 
+Please feel free to reach out and ask about any of them!
 
 <!---
 camTopping/camTopping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
